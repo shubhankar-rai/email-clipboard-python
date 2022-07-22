@@ -84,7 +84,7 @@ This python script is used to generate a list of email addresses extracted from 
 
 Shubhankar Rai - shubhankarrai99@gmail.com
 
-Project Link: [https://github.com/shubhankar-rai/email-clipboard-python](https://github.com/shubhankar-rai/qrcode-generator-python)
+Project Link: [https://github.com/shubhankar-rai/email-clipboard-python](https://github.com/shubhankar-rai/email-clipboard-python)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
